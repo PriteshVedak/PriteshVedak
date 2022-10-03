@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriteshVedak
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and Data Science
 - 📫 How to reach me priteshvedak@gmail.com
 
 <!---
